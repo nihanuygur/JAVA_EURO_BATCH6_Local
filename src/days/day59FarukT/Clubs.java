@@ -1,0 +1,5 @@
+package days.day59FarukT;
+
+public enum Clubs {
+    MANCHESTER,LEICESTER,ARSENAL,NEWCASTLE,LIVERPOOL,CHELSEA,TOTTENHAM;
+}
